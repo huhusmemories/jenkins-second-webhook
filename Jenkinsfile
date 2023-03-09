@@ -9,4 +9,5 @@ pipeline {
                 sh "python pipeline.py"
 		}
 	}            
+    }
 }
